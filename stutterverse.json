@@ -1,4 +1,14 @@
 {
-  "latest": "1.14.0",
-  "url": "https://www.pabloblancomixing.com/stutterverse"
+  "latest": "1.15.0",
+  "url": "https://www.pabloblancomixing.com/stutterverse",
+  "notes": "Speed 1/2, combo mode with a Character slider for each style, and updates with one click right inside the plug-in.",
+  "mac": {
+    "url": "https://github.com/Pabl0Blanco/audioblanco-updates/releases/download/stutterverse-1.15.0/StutterVerse-1.15.0-Mac.pkg",
+    "sha256": "e910822273094ac1e4be35b070e134726cb05b0cfe070fd3fa4ce18ff89c02a2"
+  },
+  "win": {
+    "url": "https://github.com/Pabl0Blanco/audioblanco-updates/releases/download/stutterverse-1.15.0/StutterVerse-1.15.0-Windows.exe",
+    "sha256": "f81ca7bad98724406bc76054a7cf9e4e9187bf576518c8c456530190afb9faaf"
+  },
+  "sig": "20b148e713024fac74cb19a41a8c2ff3936c1db504e9a0b524bfd0d903a9e3c5568aa869bda8101aec4a478d3a5d3763759e9b9371f49b778816722bfd163765e668741ff4db4b6f1ca74e7bb16007401921f3cb1477003503338710df2c7b3e9ab54ef9fd9fcb1a0e243370918aad977b038011fffcba01d7b38379a418f86e92f29136849abc3de76076f9d33d50cc5323ab3d36caedcc5dbccb51eac86ce580d3a94f73800055c5bf89a0ce9b4f0991e4d04bf5d3e5aceb893e4581912641a75abd9c5e3708d45735be374ec4ff865aac707d4480a1daef3a8bdffe3edf74e7f0174375361359636d77546f3e9eb5975c6b224f47f23cda6bb93ad923803c74519c2eae0be6e16da49ae1b43dfadc9fccd0af829fb58e90c2a024ef77fcfe0b75ff6a7921b6f472fe727d5db9a16e27affd85a562d63012993d8a4f6a85e1e511c5d7da1b1527478fdb7953204ea6a24a4f58be7776681830e238ab78042ed8ef1889b0c823e48b100dbe373ce79d39f9ded4dc4da8ad021bcb7fdf03fd4f"
 }
